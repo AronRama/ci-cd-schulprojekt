@@ -1,0 +1,19 @@
+{
+  "name": "ci-cd-schulprojekt",
+  "version": "1.0.0",
+  "description": "Simple CI/CD demo web app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AronRama/ci-cd-schulprojekt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
